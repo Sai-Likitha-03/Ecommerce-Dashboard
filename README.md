@@ -47,4 +47,4 @@ Displays core performance metrics:
 - Performance Monitoring: Enables stakeholders to track order and revenue trends by product category and time period.
 - Data-Driven Marketing: Supports discount and campaign optimization by analyzing brand-level AOV and order behavior.
 🖼️ Screenshots / Demos
-Dashboard Preview: https://github.com/Sai-Likitha-03/Ecommerce-Dashboard/blob/main/Ecommerce%20Dashboard%20image.png
+![Dashboard Preview](https://github.com/Sai-Likitha-03/Ecommerce-Dashboard/blob/main/Ecommerce%20Dashboard%20image.png)
